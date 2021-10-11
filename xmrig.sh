@@ -1,4 +1,4 @@
-#Monero
+# Monero
 sudo apt-get update
 wget https://github.com/xmrig/xmrig/releases/download/v6.15.2/xmrig-6.15.2-linux-x64.tar.gz
 tar -xf xmrig-6.15.2-linux-x64.tar.gz
